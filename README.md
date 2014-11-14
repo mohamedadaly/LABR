@@ -15,6 +15,7 @@ Contents:
                      rating<TAB>review id<TAB>user id<TAB>book id<TAB>review
                      
     where:
+
                      rating: the user rating on a scale of 1 to 5
                      review id: the goodreads.com review id
                      user id: the goodreads.com user id
