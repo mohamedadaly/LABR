@@ -1,8 +1,7 @@
 LABR: A Large-SCale Arabic Book Reviews Dataset
 ===============================================
 
-This dataset contains over 63,000 book reviews in Arabic. The book reviews
-were harvested from the website [Goodreads](http://www.goodreads.com) during the month or March 2013. Each book review comes with the goodreads review id, the user id, the book id, the rating (1 to 5) and the text of the review.
+This dataset contains over 63,000 book reviews in Arabic. It is the largest sentiment analysis dataset for Arabic to-date. The book reviews were harvested from the website [Goodreads](http://www.goodreads.com) during the month or March 2013. Each book review comes with the goodreads review id, the user id, the book id, the rating (1 to 5) and the text of the review.
 
 Contents:
 ---------
