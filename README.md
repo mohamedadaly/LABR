@@ -6,11 +6,11 @@ were harvested from the website [Goodreads](http://www.goodreads.com) during the
 
 Contents:
 ---------
-|
+
 - README.txt: this file
-|
+
 - data/
- |                     
+                      
   - reviews.tsv: a tab separated file containing the "cleaned up" reviews. 
                      It contains over 63,000 reviews. The format is:
                      
@@ -36,9 +36,9 @@ Contents:
                      
   - 5class-balanced/unbalanced-train/test.txt: the same, but for 5 classes 
                      instead of just 2.
-|
+
 - python/
-  |
+  
    - labr.py: the main interface to the dataset. Contains functions that can
               read/write training and test sets.
               
