@@ -10,13 +10,11 @@ Contents:
 
 - data/
                       
-  - reviews.tsv: a tab separated file containing the "cleaned up" reviews. 
-                     It contains over 63,000 reviews. The format is:
+  - reviews.tsv: a tab separated file containing the "cleaned up" reviews. It contains over 63,000 reviews. The format is:
                      
                      rating<TAB>review id<TAB>user id<TAB>book id<TAB>review
                      
-                     where:
-                     
+    where:
                      rating: the user rating on a scale of 1 to 5
                      review id: the goodreads.com review id
                      user id: the goodreads.com user id
